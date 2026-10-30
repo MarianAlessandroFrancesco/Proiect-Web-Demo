@@ -13,13 +13,13 @@ Nu păstra în portofoliu competențe sau realizări pe care nu le poți susțin
     Folosesc acest repository pentru a-mi prezenta evoluția, competențele și proiectele din domeniul IT.
   </p>
   <p>
-    <a href="https://github.com/[username]">
+    <a href="https://github.com/MarianAlessandroFrancesco">
       <img src="https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/[profil-linkedin]">
       <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
-    <a href="mailto:[adresa@email.com]">
+    <a href="mailto:alessandro.marian@student.usv.ro">
       <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
